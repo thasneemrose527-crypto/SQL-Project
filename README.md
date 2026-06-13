@@ -11,7 +11,6 @@ Welcome to my SQL portfolio.
 1. Employee Database Analysis
 2. Sales Data Analysis
 3. Customer Data Analysis
-# SQL Projects
 
 ## Employee Database Analysis
 
