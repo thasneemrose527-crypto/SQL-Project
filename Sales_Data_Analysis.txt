@@ -1,0 +1,6 @@
+Customer,Product,Region,Quantity,Price
+Ravi,Laptop,South,2,50000
+Priya,Mobile,North,1,30000
+Arun,Tablet,South,3,20000
+Divya,Laptop,East,1,50000
+Kumar,Mobile,West,2,30000
